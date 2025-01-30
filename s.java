@@ -1,4 +1,6 @@
 public class s {
-    pueh
+    public static void main(String args[]){
+        
+    }
     
 }
